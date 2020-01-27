@@ -43,9 +43,9 @@ class Login extends Component {
                 </button>
               </div>
               <div className="form-group">
-                <button className="btn btn-primary btn-block" type="submit">
-                  Sign Up
-                </button>
+                <a href="http://localhost:3001/Register">
+                  <span className="btn btn-primary btn-block">Sign Up</span>
+                </a>
               </div>
               <a href="http://localhost:3001/" className="already">
                 Click Here? Landing Page.
