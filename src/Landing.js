@@ -48,7 +48,7 @@ class Landing extends Component {
                   <a
                     className="btn btn-light action-button"
                     role="button"
-                    href="#"
+                    href="http://localhost:3001/Register"
                   >
                     Sign Up
                   </a>
